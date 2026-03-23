@@ -10,7 +10,7 @@
 
 ## 使用方式
 1. 將 `Text_CN.arc` 放入遊戲目錄下的 `Text` 資料夾並覆蓋原檔。
-2. 進入遊戲設定，將語言切換為「中文」。
+2. 進入遊戲設定，將語言切換為「汉语」。
 3. 重新啟動遊戲即可生效。
 
 ## 免責聲明
@@ -34,8 +34,8 @@ Translation date: March 21, 2026
 If there are any translation errors, suggestions and corrections are welcome.
 
 ## Installation
-Place Text_CN.arc into the Text folder in the game directory and overwrite the original file.
-Go into the game settings and switch the language to "Chinese".
+Place `Text_CN.arc` into the `Text` folder in the game directory and overwrite the original file.
+Go into the game settings and switch the language to "汉语".
 Restart the game for the changes to take effect.
 
 ## Disclaimer
